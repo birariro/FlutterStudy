@@ -5,24 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "flutter_demo_ios",
-            "request": "launch",
-            "type": "dart",
-            "deviceId": "ios"
-        },
-        {
-            "name": "flutter_demo_android",
-            "request": "launch",
-            "type": "dart",
-            "deviceId": "android"
-        },
-        {
-            "name": "flutter_demo_web",
+            "name": "flutter_appbar",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "flutter_demo (profile mode)",
+            "name": "flutter_appbar (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
